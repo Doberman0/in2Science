@@ -1,0 +1,39 @@
+in2Science Icebreakers/Ideas
+
+					PyGame (Game Ideas)
+1) Connect 4
+2) Brick breaker
+3) Hackathon
+4) Tank trouble
+
+Guess Who (15-20 mins)
+- At the beginning of any class, meeting, or social get together, have each student complete a 3×5 card with their name and three statements about him or herself.
+- During the times the students are together, read clues and have the rest of the group guess who is being described.
+- Make sure you only use each statement once.
+
+UCL Easter Egg Hunt (1-2 hrs)
+- Get in groups of ~3
+- Hunt around UCL for stuff 
+- First person to get everything gets a prize
+
+Game Exhibition/Rating/Hackathon (Techinically not an icebreaker but certainly creative/potential substitute for 3rd PyGame session) 
+- Everyone is assigned a team 
+- Every team gets 1 session to make a game
+- In the last 1/2 hr, everyone goes round and gives every other team a rating our of 10 and feedback
+- Best game gets a prize 
+
+CTF ? (2-3 hrs)
+- Short CTF (Should only take 2-3 hrs as opposed to typical 1 day ones)
+- Introduces networking, penetration testing, reverse engineering and scripting (Some python)
+
+Quiz (5-10 mins max)
+- Level 1 (5 questions): Basic questions technology
+- Level 2 (5 questions): Technological related stuff
+- Level 3 (3 Questions): Serious questions regarding technologies
+
+Tag a friend bingo (~15 mins)
+- https://www.pinterest.co.uk/pin/Afa-PKPsNb2aOFD7bk-25VWORffdv9SpWFHahNW1UVQZP57pxo6pZXQ/
+
+2 Truths 1 Lie (30 mins probably) (restrict to 1 round to limit time)
+- Everyone tells 2 truths about themselves and 1 lie
+- Everyone else guesses what the lie is
